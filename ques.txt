@@ -1,0 +1,21 @@
+Exp -> 0-1 yrs
+1. Reverse a non-negative integer
+2. Print all prime numbers between 50 and 100 (both inclusive)
+3. For an array of intergers, print the unique elements
+4. Find number of occurences of each unique character in a given string
+5. Implement bubble sort
+
+Exp -> 1-2 yrs
+1. Given a string convert first characters of all words in capital letters
+2. Create a validation function to validate a 10-digit number, not starting with 0
+3. Create function to generate a 4-digit random number for OTP
+
+Exp -> 2-4 yrs
+1. For an array of integers, print the elements in ascending order of absolute values
+	eg, [5, 12, -13, -10, -8, 20, 1] -> [1, 5, -8, -10, 12, -13, 20]
+2. Print Fibonacci series using recursion (upto 500)
+3. For a given array of elements (numbers 1 to 20) arrange the elements in following order -> Ascending(Absolute(a[i] - 10))
+	eg, [5, 12, 13, 10, 8, 20, 1] -> [10, 8, 12, 13, 5, 1, 20]
+4. Implement binary search
+5. Spirally traverse a 2D-matrix clock-wise
+6. Merge two given sorted array to give a single sorted array
