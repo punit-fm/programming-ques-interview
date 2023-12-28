@@ -1,6 +1,5 @@
 1st round interview
 ----------------------------------------------------------------------------------------
-Exp -> 0-1 yrs
 1. Reverse a non-negative integer
 2. Print all prime numbers between 50 and 100 (both inclusive)
 3. For an array of intergers, print the unique elements
